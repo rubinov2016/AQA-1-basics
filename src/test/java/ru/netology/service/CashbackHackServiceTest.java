@@ -2,9 +2,7 @@ package ru.netology.service;
 
 import org.junit.Assert;
 import org.junit.Test;
-//import org.testng.Assert;
-//import org.testng.annotations.Test;
-//Напишите простые автотесты (без параметризации) на основании материала следующего раздела.
+
 public class CashbackHackServiceTest {
 
     @Test
