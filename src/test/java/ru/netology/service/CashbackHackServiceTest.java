@@ -19,6 +19,7 @@ public class CashbackHackServiceTest {
         int actual = cashbackHackService.remain(1000);
         Assert.assertEquals(actual,expected);
     }
+
     @Test
     public void shouldCalculateBonusExceedBoundary() {
         CashbackHackService cashbackHackService = new CashbackHackService();
